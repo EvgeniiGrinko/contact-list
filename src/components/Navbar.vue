@@ -2,11 +2,6 @@
   <header class="navbar-block">
     <ul class="navbar-list">
       <li>
-        <router-link class="navbar--li" to="/">
-          <a href="/">Home</a>
-        </router-link>
-      </li>
-      <li>
         <router-link class="navbar--li" to="/create">
           <a href="/create">Create contact</a>
         </router-link>
